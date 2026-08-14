@@ -17,11 +17,13 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- É um aplicativo com interface gráfica do GitHub voltado para o sistema operacional Windows.
+Ele serve para gerenciar repositórios, fazer commits e sincronizar alterações visualmente sem usar a linha de comando.
+Eu o usaria quando estivesse no Windows e quisesse uma forma mais simples e intuitiva de mexer no Git. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- É ideal para iniciantes ou desenvolvedores que preferem interações de clique e botões ao invés de digitar comandos no terminal. -->
 
 ---
 
@@ -31,11 +33,12 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Ele permite gerenciar projetos, criar branches e enviar códigos diretamente no Mac através de botões e menus visuais.
+Eu o usaria ao trabalhar em um computador da Apple e buscar uma experiência visual integrada ao sistema.. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Atualmente, tanto a versão para Windows quanto para Mac foram unificadas no aplicativo GitHub Desktop, mas seu propósito continua o mesmo. -->
 
 ---
 
@@ -45,19 +48,20 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: Ele fornece as ferramentas de linha de comando (como o Git Bash) necessárias para controlar versões de arquivos localmente.
+Eu o usaria sempre que precisasse instalar o Git em qualquer computador para executar comandos diretamente no terminal. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- É o item mais essencial da lista, pois qualquer aplicativo visual (GUI) precisa que o Git esteja instalado no sistema para funcionar por trás dos panos. -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [X] 1. GitHub para Windows
+- [X] 2. GitHub para Mac
+- [X] 3. Git para todas as plataformas
 
 ---
 
