@@ -1,4 +1,4 @@
-# Exercício — Documentar os comandos do Git
+# Exercício — Documentar os comandos do Git *ALTERADO*
 
 ---
 
